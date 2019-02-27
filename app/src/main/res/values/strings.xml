@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Gestor de Sueldos</string>
+    <string name="nombre_gasto_fijo">Ingrese el nombre del gasto</string>
+    <string name="nombre_gasto_nofijo">Ingrese el nombre del gasto</string>
+    <string name="monto">Ingrese el monto del gasto</string>
+    <string name="agregar">Agregar Gasto</string>
+    <string name="modificarg">Modificar Gasto</string>
+    <string name="eliminar">Eliminar Gasto</string>
+    <string name="buscar">Buscar Gasto</string>
+    <string name="numero">Numero de gasto</string>
+    <string name="actualizar">Agregar Sueldo</string>
+    <string name="gastosf">Gastos Fijos</string>
+    <string name="gastosnf">Gastos No Fijos</string>
+    <string name="sueldo">Ingrese Sueldo</string>
+    <string name="asueldo">Agregar Sueldo</string>
+</resources>
